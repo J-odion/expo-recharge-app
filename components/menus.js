@@ -1,6 +1,7 @@
 import { View, Text ,TouchableOpacity} from 'react-native'
 import React from 'react'
 import { HomeIcon, AvatarIcon, ShoppingCartIcon } from 'react-native-heroicons/solid'
+import { useNavigation } from '@react-navigation/native';
 
 const Navigation = useNavigation();
 const Menus = () => {
