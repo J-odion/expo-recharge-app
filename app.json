@@ -4,10 +4,10 @@
     "slug": "Yenome",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/logoos.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/logoos.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
