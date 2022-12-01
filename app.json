@@ -1,13 +1,13 @@
 {
   "expo": {
-    "name": "Yenome",
-    "slug": "Yenome",
+    "name": "Bolt Recharge",
+    "slug": "Bolt-recharge",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/logoos.png",
+    "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/logoos.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

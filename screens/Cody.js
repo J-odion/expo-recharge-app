@@ -11,7 +11,7 @@ import Checkbox from '../components/checkboxss';
 import Buttin from '../components/button';
 import Buttombuttin from '../components/buttombuttin';
 
-const Shopping = () => {
+const Shopping = ({navigation}) => {
   const Navigation = useNavigation();
 
   useLayoutEffect(
